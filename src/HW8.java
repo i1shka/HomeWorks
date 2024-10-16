@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class HW8 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Введите логин");
